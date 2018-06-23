@@ -23,7 +23,7 @@ Kim: design/styling
 Samantha: dashboard
 Cecilia: User login/registration; e-commerce support
 Pranav: e-commerce portion
-Jamar: dashboard
+Jamar: dashboard  
 
 
 ### Timeline
