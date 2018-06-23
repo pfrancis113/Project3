@@ -13,24 +13,25 @@ The other main page, is the “workout page”, this consists of :
 
 The final feature, is an e-commerce site where individuals can purchase supplements and nutritional products.
 
+### Value 
 The value in this site is that it contains everything one needs for a productive/efficient exercise experience and lifestyle. It addresses the learning curve/education component, tracking/measuring of progress, and supplying key nutritional products to support the demands of training and healthy lifestyle.
 Commonly people don’t know how to get started with exercise or how to properly progress their training. This app supplies users with a wealth of information to get them exercising intelligently and address the knowledge/educational component by providing videos that demonstrate how to do exercises. People are more likely to stick with training when they see the improvement—hence the tracking of key performance indicators. “You can’t manage what you don’t measure” and this aspect is represented here.
 This is also valuable for trainers and coaches. The app is scalable. In the future different coaches can upload their exercise systems (workout and exercise video library), it give them a chance to market their system and reach a greater client base without having to “trade their time for money”—content is created one time and then users can access it, as opposed to training session where the coach has to be present. Also this allows the coach/trainer to monitor/manage clients by accessing various metrics.
 
 ### BREAKDOWN OF ROLES
-Patrick: Overall project architecture; Database; Workout page; React Logic
-Kim: design/styling
-Samantha: dashboard
-Cecilia: User login/registration; e-commerce support
-Pranav: e-commerce portion
-Jamar: dashboard  
+Patrick: Overall project architecture; Database; Workout page; React Logic </br>
+Kim: design/styling </br>
+Samantha: dashboard </br>
+Cecilia: User login/registration; e-commerce support </br>
+Pranav: e-commerce portion </br>
+Jamar: dashboard  </br>
 
 
 ### Timeline
-FoundationalSet-up: repository; Initial file structure; server/Database; deploy to Heroku; individuals pull (Monday)
-Client login/registration set-up; connect to DB (Tuesday)
-Seed necessary data to DB; DB models/schema (start Tuesday finalize wednesday)
-Finalize Components (wednesday)
-Static page layout and design completed (wednesday)
-Finalize react logic/Testing/troubleshooting (Thursday/Friday)
-Deploy to Heroku -- MVP (Saturday)
+FoundationalSet-up: repository; Initial file structure; server/Database; deploy to Heroku; individuals pull (Monday) </br>
+Client login/registration set-up; connect to DB (Tuesday) </br>
+Seed necessary data to DB; DB models/schema (start Tuesday finalize wednesday) </br>
+Finalize Components (wednesday) </br>
+Static page layout and design completed (wednesday) </br>
+Finalize react logic/Testing/troubleshooting (Thursday/Friday) </br>
+Deploy to Heroku -- MVP (Saturday) </br>
