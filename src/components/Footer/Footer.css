@@ -1,0 +1,28 @@
+/* this is the band above the footer - don't understand what purpose it serves but using it currently as a color band */
+
+.footer {
+  min-height: 40px;
+  /* background:#fbc800; */
+  position: relative;
+  font-size: 14pt;
+  margin-top: 100px;
+}
+
+.footer span {
+  /* position: absolute; */
+  /* bottom: 0;
+  left: 0;
+  right: 0; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: white;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}

@@ -1,0 +1,10 @@
+header {
+    background: hsl(51, 100%, 50%);
+    color: #91a2aa;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-family: 'Dancing Script', cursive;
+}

@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+        "exercise": "Clean Pull",
+        "set1": "5 x ___",
+        "set2": " ",
+        "comment": "warm-up"
+        },
+        
+        {
+            "exercise": "Hang Clean Pull",
+            "set1": "3 x ___",
+            "set2": "3 x ___",
+            "comment": "60% of 1 RM"
+            },
+            
+        {
+            "exercise": "Hang Power Clean",
+            "set1": "2 x ___",
+            "set2": "2 x ___",
+            "set3": "2 x ___",
+            "comment": "70% of 1RM"
+            },
+        {
+            "exercise": "Power Clean",
+            "set1": "1 x ___",
+            "set2": "1 x ___",
+            "set3": "1 x ___",
+            "set4": "1 x ___",
+            "set5": "1 x ___",
+            "comment": "@ >95% 1RM"
+            },
+        {
+            "exercise": "Box Clean above knee",
+            "set1": "3 x ___",
+            "set2": "2 x ___",
+            "set3": "1 x ___",
+            "set4": " ",
+            "set5": " ",
+            "comment": "technique emphasis"
+            },
+        {
+            "exercise": "Box Clean below knee",
+            "set1": "3 x ___",
+            "set2": "2 x ___",
+            "set3": "1 x ___",
+            "set4": " ",
+            "set5": " ",
+            "comment": "New PR"
+            },
+        {
+            "exercise": "Box Clean Pull",
+            "set1": "5 x ___",
+            "set2": "3 x ___",
+            "set3": "2 x ___",
+            "set4": "2 x ___",
+            "set5": "1 x ___",
+            "comment": "volume emphasis"
+            }
+
+    ]
+}
