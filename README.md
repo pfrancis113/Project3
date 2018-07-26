@@ -1,10 +1,10 @@
 # Project3
 
-![Image of Jumbotron](Project3/FLJumbo)
+![Image of Jumbotron](https://github.com/pfrancis113/Project3/blob/master/FLJumbo.png)
 <br>
 ![Image of Welcome](https://github.com/pfrancis113/Project3/blob/master/FLWelcome.png)
 
-![Image of Welcome](Project3/FL6.png)
+![Image of Welcome](https://github.com/pfrancis113/Project3/blob/master//FL6.png)
 
 ### OVERVIEW
 Fit Life is a fitness app and initial foray into the world of a web-based athlete management software solutions. Upon registration and login, user’s arrive at their dashboard. The dashboard has several capabilities (“tabs”):
