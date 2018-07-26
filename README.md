@@ -1,10 +1,10 @@
 # Project3
 
-![Image of Jumbotron](FLJumbo)
+![Image of Jumbotron](Project3/FLJumbo)
 <br>
-![Image of Welcome](FLWelcome)
+![Image of Welcome](Project3/FLWelcome)
 
-![Image of Welcome](FL6)
+![Image of Welcome](Project3/FL6.png)
 
 ### OVERVIEW
 Fit Life is a fitness app and initial foray into the world of a web-based athlete management software solutions. Upon registration and login, user’s arrive at their dashboard. The dashboard has several capabilities (“tabs”):
