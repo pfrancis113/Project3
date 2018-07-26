@@ -2,7 +2,7 @@
 
 ![Image of Jumbotron](Project3/FLJumbo)
 <br>
-![Image of Welcome](Project3/FLWelcome)
+![Image of Welcome](https://github.com/pfrancis113/Project3/blob/master/FLWelcome.png)
 
 ![Image of Welcome](Project3/FL6.png)
 
