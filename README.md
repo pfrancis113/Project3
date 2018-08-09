@@ -12,7 +12,7 @@ Fit Life is a wholistic fitness lifesstyle app.  It began as the final project f
 ### Here you will find...
 This repository features the "WORKOUT OF THE DAY" page.
 
-It is an initial foray into the world of web-based athlete management software solutions and component-based programming using React.
+It served as an initial foray into the world of web-based athlete management software solutions and component-based programming using React.
 
 ### Features
 1. Workout table / journal 
