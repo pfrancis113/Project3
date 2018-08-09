@@ -15,6 +15,6 @@ This repository features the WORKOUT PAGE
 It is an initial foray into the world of a web-based athlete management software solutions and component-based programming using React
 
 ## Features
-1. Editable table of workout template
+1. Workout table/journal 
 2. Associated exercise video playlist
-2. Header that generates a quote
+2. Header that generates a quote from an array
