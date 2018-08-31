@@ -19,4 +19,4 @@ It served as an initial foray into the world of web-based athlete management sof
 2. Associated exercise video playlist
 2. Header that generates a quote from an array
 
-:unhappy: This app is currently only available locally.
+This app is currently only available locally.
